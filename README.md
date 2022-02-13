@@ -6,3 +6,6 @@ Cryptocurrency made with Open Zeppelin, implementing ERC20, ERC20Burnable, Pausa
 
 ## Ropsten etherscan:
 https://ropsten.etherscan.io/address/0xadceb73a576e5bc608634d2fe609d6c925697528
+
+## Token:
+https://ropsten.etherscan.io/token/0xadceb73a576e5bc608634d2fe609d6c925697528
